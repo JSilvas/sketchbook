@@ -1,0 +1,15 @@
+* {
+  outline: 2px dotted orange;
+}
+div {
+  padding: 20px;
+}
+#parent-box {
+  background: #777;
+  width: 100%;
+  margin: 20px 0px;
+}
+#child-box {
+  background: #555;
+  width: 50%;
+}
