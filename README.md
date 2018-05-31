@@ -1,2 +1,2 @@
 # sketchbook
-A place for all my random code examples and playing around
+A place for random code, examples, and sundry shenanigans.
